@@ -7,6 +7,9 @@ requires-python = ">=3.11"
 dependencies = [
     "ipykernel>=6.29.5",
     "jupyter>=1.1.1",
+    "langchain>=0.2.1",
+    "langchain-openai>=0.1.7",
+    "langchain_experimental>=0.3.4",
     "matplotlib>=3.10.0",
     "nump>=5.5.5.5",
     "openai>=1.59.7",
